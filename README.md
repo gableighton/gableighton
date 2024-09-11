@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gableighton
+- 👋 Hi, I’m Gabriel Leighton
 - 👀 I’m interested in new knnowledge in the area of technology
 - 🌱 I’m currently learning cyber scurity and system analysis and develpment
 - 💞️ I’m looking to collaborate on all kinds of projects for my personal growth
